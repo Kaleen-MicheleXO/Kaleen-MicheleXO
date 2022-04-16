@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Kaleen, Thanks for stopping by!</h1>
+<h1 align="center">Hi there 👋 I'm Kaleen, Thanks for stopping by!</h1>
 <h3 align="center">I am a ambitious software engineer based in the DMV area.</h3>
 
 <p align="left"> <a href="https://twitter.com/kay_michelexo" target="blank"><img src="https://img.shields.io/twitter/follow/kay_michelexo?logo=twitter&style=for-the-badge" alt="kay_michelexo" /></a> </p>
