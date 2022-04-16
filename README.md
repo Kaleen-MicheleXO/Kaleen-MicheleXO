@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML/CSS and JS**
 
-- 📫 How to reach me **Kaleen.Moon1@gmail.com**
+- 📫 How to reach me: **Kaleen.Moon1@gmail.com**
 
 - ⚡ Fun fact **I like to collect records for my record player**
 
