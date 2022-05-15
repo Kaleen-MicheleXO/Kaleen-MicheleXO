@@ -8,7 +8,7 @@
 <h1 align="center">:sparkles: Hi,I'm Kaleen, Thanks for stopping by!:sparkles:</h1>
 <img src="https://user-images.githubusercontent.com/101673372/168447434-2575cc6e-0eb3-48d9-b2c7-869d6615372b.mp4" width="1340" height="354" style=" object-fit: cover"/>
 
- <img src="https://readme-typing-svg.herokuapp.com?font=&size=28&color=FF0063&lines=Software+Engineer+%F0%9F%92%BB++;Health%F0%9F%A9%BA++Fitness+%F0%9F%92%AA%F0%9F%8F%BE;%E2%9C%A8Fashion%E2%9C%A8">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&size=28&color=FF0063&lines=Software+Engineer+%F0%9F%92%BB++;Health%F0%9F%A9%BA++Fitness+%F0%9F%92%AA%F0%9F%8F%BE;%E2%9C%A8Fashion%E2%9C%A8"/>
 <!-- (https://git.io/typing-svg) -->
 
 <h2 align="center" color="white">Im a Full stack software engineer based in the DMV area.</h2>
@@ -32,24 +32,46 @@
 - ⚡ Fun fact **I like to collect records**
 
 <h2 align="center">Projects (coming soon..)</h2>
+<div align="center">
+ <table>
+   <tr>
+    <td width="50%">
+<h3 align='center'>Capital Breeze </h3>
+ <p align="Center">
+  <a href="https://capitalbreeze.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/101673372/168494452-a9967fd1-5e40-4460-9b5f-3f8094ce2dc6.png" alt"Weather Api"/> </a>
+ <span> <a href="https://capitalbreeze.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt"Live Site" height="25px"/></a> </span>
+     <p align="center"> Wondering what the weather is? Capital Breeze has got you covered! This Api will tell you the current temperature and forcast in any city</p>
+ </p>
+ </td>
+    <td width="50%">
+<h3 align='center'>Breaking Bad Characters </h3>
+ <p align="Center">
+  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/101673372/168495165-c589741d-970c-457d-a510-6b411369fd95.png" alt"Breaking Bad"/> </a>
+ <span> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt"Live Site" height="25px"/></a> </span>
+   <p align="center"> Are you a fan of breaking bad? This fun site has all 57 characters and tells you there name, birthday, nickname and occupation simply by typing a number!</p>
+ </p>
+ </td>
+    
+  
 
+    
+ </tr>
+ </table>
+ </div>
 
 
 ----
-<!--  
-https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg
-https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg
-https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
- -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101673372/168451332-25256a54-bb5e-40a7-a03c-4f7b7322984f.png" alt="css3" width="96" height="96"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101673372/168451393-3ad8b487-2718-4f5c-9ba6-98a0a933cec8.png" alt="html5" width="96" height="96"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101673372/168451495-e63d7922-2099-4c55-bb91-8fe6097f3fa3.png" alt="javascript" width="96" height="96"/> </a> </p>
 
 
- <div  align="center"> <img   src="https://github-readme-streak-stats.herokuapp.com/?user=Kaleen-MicheleXO&hide_border=true&currStreakNum=43050D&ring=43050D&background=FFE9E9&sideLabels=43050D&sideNums=43050D&fire=ffffff&currStreakLabel=43050D&dates=43050D"></div>
+ <p align="center"> 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaleen-MicheleXO&hide_border=true&currStreakNum=43050D&ring=43050D&background=FFE9E9&sideLabels=43050D&sideNums=43050D&fire=ffffff&currStreakLabel=43050D&dates=43050D"> 
+</p>
   
   
 <h2 align="center">Connect with me:</h2>
