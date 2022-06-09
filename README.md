@@ -1,12 +1,9 @@
-<!-- ![icons8-css3-96](https://user-images.githubusercontent.com/101673372/168451332-25256a54-bb5e-40a7-a03c-4f7b7322984f.png)
-![icons8-html-5-96](https://user-images.githubusercontent.com/101673372/168451393-3ad8b487-2718-4f5c-9ba6-98a0a933cec8.png)
-![icons8-javascript-96](https://user-images.githubusercontent.com/101673372/168451495-e63d7922-2099-4c55-bb91-8fe6097f3fa3.png)
-![icons8-mail-50](https://user-images.githubusercontent.com/101673372/168451716-ac2b5619-6e3f-42c3-82cd-d678250ca495.png)
-
- -->
-
+<!-- 
+[cover](https://user-images.githubusercontent.com/101673372/172747698-5b44cdbf-9589-4e15-a949-77334be2b2df.png)
+-b2c7-869d6615372b.mp4
+  -->
 <h1 align="center">:sparkles: Hi,I'm Kaleen, Thanks for stopping by!:sparkles:</h1>
-<img src="https://user-images.githubusercontent.com/101673372/168447434-2575cc6e-0eb3-48d9-b2c7-869d6615372b.mp4" width="1340" height="354" style=" object-fit: cover"/>
+<img src="https://user-images.githubusercontent.com/101673372/172747698-5b44cdbf-9589-4e15-a949-77334be2b2df.png" width="1340" height="354" style=" object-fit: cover"/>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=&size=28&color=FF0063&lines=Software+Engineer+%F0%9F%92%BB++;Health%F0%9F%A9%BA++Fitness+%F0%9F%92%AA%F0%9F%8F%BE;%E2%9C%A8Fashion%E2%9C%A8"/>
 <!-- (https://git.io/typing-svg) -->
