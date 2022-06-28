@@ -1,7 +1,5 @@
 
-[cover](https://user-images.githubusercontent.com/101673372/172747698-5b44cdbf-9589-4e15-a949-77334be2b2df.png)
--b2c7-869d6615372b.mp4
-  -->
+
 <h1 align="center">:sparkles: Hi,I'm Kaleen, Thanks for stopping by!:sparkles:</h1>
 <img src="https://user-images.githubusercontent.com/101673372/172747698-5b44cdbf-9589-4e15-a949-77334be2b2df.png" width="1340" height="354" style=" object-fit: cover"/>
 
