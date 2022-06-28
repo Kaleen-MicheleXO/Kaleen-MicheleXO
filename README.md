@@ -1,4 +1,4 @@
-<!-- 
+
 [cover](https://user-images.githubusercontent.com/101673372/172747698-5b44cdbf-9589-4e15-a949-77334be2b2df.png)
 -b2c7-869d6615372b.mp4
   -->
@@ -60,10 +60,39 @@
 ----
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101673372/168451332-25256a54-bb5e-40a7-a03c-4f7b7322984f.png" alt="css3" width="96" height="96"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101673372/168451393-3ad8b487-2718-4f5c-9ba6-98a0a933cec8.png" alt="html5" width="96" height="96"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101673372/168451495-e63d7922-2099-4c55-bb91-8fe6097f3fa3.png" alt="javascript" width="96" height="96"/> </a> </p>
+<div align="center">
+ <table>
+	    <tr>
+          <td valign="top" width="50%">
+			      <h3 align="center">Frontend</h3>
+			      <br>
+		        <div align="center" >
+    	&nbsp
+<a href="https://www.w3schools.com/css/" target="_blank" > <img src="https://user-images.githubusercontent.com/101673372/168451332-25256a54-bb5e-40a7-a03c-4f7b7322984f.png" alt="CSS" height="96"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" > <img src="https://user-images.githubusercontent.com/101673372/168451393-3ad8b487-2718-4f5c-9ba6-98a0a933cec8.png" alt="html5" height="96"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img src="https://user-images.githubusercontent.com/101673372/168451495-e63d7922-2099-4c55-bb91-8fe6097f3fa3.png" alt="javascript" height="96"/> </a>
+  <a href="" target="_blank" > <img src="https://user-images.githubusercontent.com/101673372/176077082-cf8cb966-6211-453c-acb1-92cda555176c.png" alt="BootStrap"  height="96"/> </a> 
+  <a href="" target="_blank" > <img src="https://user-images.githubusercontent.com/101673372/176077092-f3bba94e-25a4-474d-9f90-3022efa38636.png" alt="React"  height="96"/> </a> 
+			      </div>
+			      </td>
+		<td valign="top" width="50%">
+			      <h3 align="center">Backend</h3>
+			      <br>
+  <div align="center">
+			      &nbsp
+<a href="" target="_blank" > <img src="https://user-images.githubusercontent.com/101673372/176071751-ff0648b5-fe1e-4f32-9aee-20b681236af3.png" alt="MongoDB"  height="96"/> </a> 
+  <a href="" target="_blank" > <img src="https://user-images.githubusercontent.com/101673372/176072235-20586401-86ab-42fd-b530-81a31157d760.png" alt="node.js" height="96"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://user-images.githubusercontent.com/101673372/168451495-e63d7922-2099-4c55-bb91-8fe6097f3fa3.png" alt="javascript" height="96"/> </a> </p>
+				    <br>
+			    	<br>	
+			</div>
+		</td>
+	</tr>
+</table>
+</div>
+</br>
+</br>
+
 
 
  <p align="center"> 
