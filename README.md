@@ -1,5 +1,6 @@
 
 
+
 <h1 align="center">:sparkles: Hi,I'm Kaleen, Thanks for stopping by!:sparkles:</h1>
 <img src="https://user-images.githubusercontent.com/101673372/172747698-5b44cdbf-9589-4e15-a949-77334be2b2df.png" width="1340" height="354" style=" object-fit: cover"/>
 
@@ -41,12 +42,22 @@
     <td width="50%">
 <h3 align='center'>Breaking Bad Characters </h3>
  <p align="Center">
-  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/101673372/168495165-c589741d-970c-457d-a510-6b411369fd95.png" alt"Breaking Bad"/> </a>
+  <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/101673372/168495165-c589741d-970c-457d-a510-6b411369fd95.png" alt"Breaking Bad"/> </a>
  <span> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt"Live Site" height="25px"/></a> </span>
    <p align="center"> Are you a fan of breaking bad? This fun site has all 57 characters and tells you there name, birthday, nickname and occupation simply by typing a number!</p>
  </p>
  </td>
-    
+           </tr>
+      <tr>
+	  <td width="50%">
+          <h3 align="center">Rugrats Flip Cards</h3>
+          <p align="center">
+            <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101673372/182945374-527807e8-4988-4b46-831f-85936523a037.png" alt"Rugrats flip Cards"/> </a>
+            <span> <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Repo-lightpink?style=for-the-badge&logo"alt="Repo" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
+            <p align="center"> </p>
+          </p>
+        </td>
+      
   
 
     
