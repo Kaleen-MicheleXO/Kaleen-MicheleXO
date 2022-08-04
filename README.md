@@ -35,7 +35,7 @@
 <h3 align='center'>Capital Breeze </h3>
  <p align="Center">
   <a href="https://capitalbreeze.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/101673372/168494452-a9967fd1-5e40-4460-9b5f-3f8094ce2dc6.png" alt"Weather Api"/> </a>
- <span> <a href="https://capitalbreeze.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt"Live Site" height="25px"/></a> </span>
+ <span> <a href="https://github.com/Kaleen-MicheleXO/CapitalBreeze-API" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Repo-lightpink?style=for-the-badge&logo"alt="Repo" height ="25px"><a href="https://capitalbreeze.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt"Live Site" height="25px"/></a> </span>
      <p align="center"> Wondering what the weather is? Capital Breeze has got you covered! This Api will tell you the current temperature and forcast in any city</p>
  </p>
  </td>
@@ -43,7 +43,7 @@
 <h3 align='center'>Breaking Bad Characters </h3>
  <p align="Center">
   <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/101673372/168495165-c589741d-970c-457d-a510-6b411369fd95.png" alt"Breaking Bad"/> </a>
- <span> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt"Live Site" height="25px"/></a> </span>
+ <span> <a href="https://github.com/Kaleen-MicheleXO/Breaking-Bad-API" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Repo-lightpink?style=for-the-badge&logo"alt="Repo" height ="25px" <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt"Live Site" height="25px"/></a> </span>
    <p align="center"> Are you a fan of breaking bad? This fun site has all 57 characters and tells you there name, birthday, nickname and occupation simply by typing a number!</p>
  </p>
  </td>
@@ -54,7 +54,7 @@
           <p align="center">
             <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101673372/182945374-527807e8-4988-4b46-831f-85936523a037.png" alt"Rugrats flip Cards"/> </a>
             <span> <a href="https://github.com/Kaleen-MicheleXO/Rugrats-front-end" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Repo-lightpink?style=for-the-badge&logo"alt="Repo" height ="25px"></a> <a href="https://rugratsflipcards.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
-            <p align="center"> </p>
+            <p align="center"> Are you a 90's baby and loved the Rugrats Show? This is a fun site where you can read about the main characters of the Rugrats and find out some of there iconic sayings.</p>
           </p>
         </td>
       
