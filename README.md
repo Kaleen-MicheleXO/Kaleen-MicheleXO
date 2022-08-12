@@ -58,7 +58,6 @@
             <p align="center"> Are you a 90's baby and loved the Rugrats Show? This is a fun site where you can read about the main characters of the Rugrats and find out some of there iconic sayings.</p>
           </p>
         </td>
-      
   <td width="50%">
           <h3 align="center">Blood Sugar Tracker</h3>
           <p align="center">
