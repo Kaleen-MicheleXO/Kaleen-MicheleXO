@@ -1,6 +1,5 @@
 
-
-
+<img width="1467" alt="blood-Sugar-Tracker" src="https://user-images.githubusercontent.com/101673372/184561789-bd222f88-1b32-412d-b0b2-6f6d8d81570d.png">
 
 <h1 align="center">:sparkles: Hi,I'm Kaleen, Thanks for stopping by!:sparkles:</h1>
 <img src="https://user-images.githubusercontent.com/101673372/172747698-5b44cdbf-9589-4e15-a949-77334be2b2df.png" width="1340" height="354" style=" object-fit: cover"/>
@@ -49,7 +48,7 @@
  </p>
  </td>
            </tr>
-      <tr>
+	   <tr>
 	  <td width="50%">
           <h3 align="center">Rugrats Flip Cards</h3>
           <p align="center">
@@ -61,7 +60,8 @@
   <td width="50%">
           <h3 align="center">Blood Sugar Tracker</h3>
           <p align="center">
-            <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101673372/184445599-a9d46e83-63c9-41c6-b567-9e986756b9f3.png" alt"Blood sugar tracker"/> </a>
+            <a href="#" target="_blank" rel="noreferrer"> <img width="1467" alt="blood-Sugar-Tracker" src="https://user-images.githubusercontent.com/101673372/184561789-bd222f88-1b32-412d-b0b2-6f6d8d81570d.png">
+ </a>
             <span> <a href="https://github.com/Kaleen-MicheleXO/Blood-Glucose-Tracker" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Repo-lightpink?style=for-the-badge&logo"alt="Repo" height ="25px"></a> <a href="https://bloodsugar-tracker.herokuapp.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
             <p align="center"> A helpful blood sugar log to help diabetics keep up with there blood sugar from day to day.</p>
           </p>
