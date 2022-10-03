@@ -1,8 +1,11 @@
 
+
+
 <h1 align="center">:sparkles: Hi,I'm Kaleen, Thanks for stopping by!:sparkles:</h1>
 <img src="https://user-images.githubusercontent.com/101673372/172747698-5b44cdbf-9589-4e15-a949-77334be2b2df.png" width="1340" height="354" style=" object-fit: cover"/>
-
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=&size=28&color=FF0063&lines=Software+Engineer+%F0%9F%92%BB++;Health%F0%9F%A9%BA++Fitness+%F0%9F%92%AA%F0%9F%8F%BE;%E2%9C%A8Fashion%E2%9C%A8"/>
+  </p>
 <!-- (https://git.io/typing-svg) -->
 
 <h2 align="center" color="white">Im a Full stack software engineer based in the DMV area.</h2>
@@ -65,6 +68,32 @@
           </p>
         </td>
 
+
+
+
+ </tr>
+	   <tr>
+	  <td width="50%">
+          <h3 align="center">Bill Tracker</h3>
+          <p align="center">
+            <a href="#" target="_blank" rel="noreferrer"> <img width="1467" alt="Screen Shot 2022-10-03 at 5 13 59 PM" src="https://user-images.githubusercontent.com/101673372/193683830-b3850f49-eb9d-4d25-88df-847d5a2e2410.png"> </a>
+            <span> <a href="https://github.com/Kaleen-MicheleXO/todo-mvc-auth-local" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Repo-lightpink?style=for-the-badge&logo"alt="Repo" height ="25px"></a> <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
+            <p align="center"> Looking for a place to keep all your bills in one place?Bill Tracker is the place for you. Bill Tracker totals your bills for the month and deletes the bill once its paid!</p>
+          </p>
+        </td>
+<!--   <td width="50%">
+          <h3 align="center">Blood Sugar Tracker</h3>
+          <p align="center">
+            <a href="#" target="_blank" rel="noreferrer"> <img width="1467" alt="blood-Sugar-Tracker" src="https://user-images.githubusercontent.com/101673372/184561789-bd222f88-1b32-412d-b0b2-6f6d8d81570d.png">
+ </a>
+            <span> <a href="https://github.com/Kaleen-MicheleXO/Blood-Glucose-Tracker" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Repo-lightpink?style=for-the-badge&logo"alt="Repo" height ="25px"></a> <a href="https://bloodsugar-tracker.herokuapp.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
+            <p align="center"> A helpful blood sugar log to help diabetics keep up with there blood sugar from day to day.</p>
+          </p>
+        </td> -->
+
+
+
+
     
  </tr>
  </table>
@@ -82,7 +111,7 @@
 			      <br>
 		        <div align="center" >
     	&nbsp
-<a href="https://www.w3schools.com/css/" target="_blank" > <img src="https://user-images.githubusercontent.com/101673372/168451332-25256a54-bb5e-40a7-a03c-4f7b7322984f.png" alt="CSS" height="96"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" > <video src="https://user-images.githubusercontent.com/101673372/168451332-25256a54-bb5e-40a7-a03c-4f7b7322984f.png" alt="CSS" height="96"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" > <img src="https://user-images.githubusercontent.com/101673372/168451393-3ad8b487-2718-4f5c-9ba6-98a0a933cec8.png" alt="html5" height="96"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img src="https://user-images.githubusercontent.com/101673372/168451495-e63d7922-2099-4c55-bb91-8fe6097f3fa3.png" alt="javascript" height="96"/> </a>
   <a href="" target="_blank" > <img src="https://user-images.githubusercontent.com/101673372/176077082-cf8cb966-6211-453c-acb1-92cda555176c.png" alt="BootStrap"  height="96"/> </a> 
