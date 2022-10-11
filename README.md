@@ -44,7 +44,7 @@
 <h3 align='center'>Breaking Bad Characters </h3>
  <p align="Center">
   <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/101673372/168495165-c589741d-970c-457d-a510-6b411369fd95.png" alt"Breaking Bad"/> </a>
- <span> <a href="https://github.com/Kaleen-MicheleXO/Breaking-Bad-API" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Repo-lightpink?style=for-the-badge&logo"alt="Repo" height ="25px" <a href="https://breakbad-characters.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt"Live Site" height="25px"/></a> </span>
+ <span> <a href="https://github.com/Kaleen-MicheleXO/Breaking-Bad-API" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Repo-lightpink?style=for-the-badge&logo"alt="Repo" height ="25px" <a href="https://breakbad-characters.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt"Live Site" height="25px"/></a> </span>
    <p align="center"> Are you a fan of breaking bad? This fun site has all 57 characters and tells you there name, birthday, nickname and occupation simply by typing a number!</p>
  </p>
  </td>
