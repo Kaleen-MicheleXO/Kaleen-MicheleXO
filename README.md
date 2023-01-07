@@ -39,20 +39,20 @@
  <span> <a href="https://github.com/Kaleen-MicheleXO/CapitalBreeze-API" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Repo-lightpink?style=for-the-badge&logo"alt="Repo" height ="25px"><a href="https://capitalbreeze.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt"Live Site" height="25px"/></a> </span>
      <p align="center"> Wondering what the weather is? Capital Breeze has got you covered! This Api will tell you the current temperature and forcast in any city</p>
  </p>
- </td>
-    <td width="50%">
-<h3 align='center'>Breaking Bad Characters </h3>
- <p align="Center">
-  <a href="https://breakbad-characters.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/101673372/168495165-c589741d-970c-457d-a510-6b411369fd95.png" alt"Breaking Bad"/> </a>
- <span> <a href="https://github.com/Kaleen-MicheleXO/Breaking-Bad-API" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Repo-lightpink?style=for-the-badge&logo" alt="Repo" height ="25px"> <a href="https://breakbad-characters.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt"Live Site" height="25px"/></a> </span>
-   <p align="center"> Are you a fan of breaking bad? This fun site has all 57 characters and tells you there name, birthday, nickname and occupation simply by typing a number!</p>
- </p>
- </td>
-           </tr>
-	   <tr>
-	  <td width="50%">
-          <h3 align="center">Rugrats Flip Cards</h3>
-          <p align="center">
+ </td> 
+<td width="50%">
+ <h3 align="center"> Bill Tracker </h3>
+     <p align="center">
+        <a href="#" target="_blank" rel="noreferrer"> <img width="1467" alt="Screen Shot 2022-10-03 at 5 13 59 PM" src="https://user-images.githubusercontent.com/101673372/193683830-b3850f49-eb9d-4d25-88df-847d5a2e2410.png"> </a>
+            <span> <a href="https://github.com/Kaleen-MicheleXO/todo-mvc-auth-local" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Repo-lightpink?style=for-the-badge&logo"alt="Repo" height ="25px"></a> <a href="https://billtracker.cyclic.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
+            <p align="center"> Looking for a place to keep all your bills in one place?Bill Tracker is the place for you. Bill Tracker totals your bills for the month and deletes the bill once its paid!</p>
+          </p>
+        </td>
+          </tr>
+<tr>	
+ <td width="50%">
+   <h3 align="center">Rugrats Flip Cards</h3>
+     <p align="center">
             <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101673372/182945374-527807e8-4988-4b46-831f-85936523a037.png" alt"Rugrats flip Cards"/> </a>
             <span> <a href="https://github.com/Kaleen-MicheleXO/Rugrats-front-end" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Repo-lightpink?style=for-the-badge&logo"alt="Repo" height ="25px"></a> <a href="https://rugratsflipcards.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
             <p align="center"> Are you a 90's baby and loved the Rugrats Show? This is a fun site where you can read about the main characters of the Rugrats and find out some of there iconic sayings.</p>
@@ -68,19 +68,15 @@
           </p>
         </td>
 
-
-
-
  </tr>
-	   <tr>
-	  <td width="50%">
-          <h3 align="center">Bill Tracker</h3>
-          <p align="center">
-            <a href="#" target="_blank" rel="noreferrer"> <img width="1467" alt="Screen Shot 2022-10-03 at 5 13 59 PM" src="https://user-images.githubusercontent.com/101673372/193683830-b3850f49-eb9d-4d25-88df-847d5a2e2410.png"> </a>
-            <span> <a href="https://github.com/Kaleen-MicheleXO/todo-mvc-auth-local" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Repo-lightpink?style=for-the-badge&logo"alt="Repo" height ="25px"></a> <a href="https://billtracker.cyclic.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
-            <p align="center"> Looking for a place to keep all your bills in one place?Bill Tracker is the place for you. Bill Tracker totals your bills for the month and deletes the bill once its paid!</p>
-          </p>
-        </td>
+<!--     <td width="50%">
+<h3 align='center'>Breaking Bad Characters </h3>
+ <p align="Center">
+  <a href="https://breakbad-characters.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/101673372/168495165-c589741d-970c-457d-a510-6b411369fd95.png" alt"Breaking Bad"/> </a>
+ <span> <a href="https://github.com/Kaleen-MicheleXO/Breaking-Bad-API" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Repo-lightpink?style=for-the-badge&logo" alt="Repo" height ="25px"> <a href="https://breakbad-characters.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt"Live Site" height="25px"/></a> </span>
+   <p align="center"> Are you a fan of breaking bad? This fun site has all 57 characters and tells you there name, birthday, nickname and occupation simply by typing a number!</p>
+ </p>
+ </td> 	HEROKU API DISCONTINUED  --> 
 	
 	
 <!--   <td width="50%">
