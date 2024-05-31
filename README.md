@@ -54,7 +54,7 @@
    <h3 align="center">Rugrats Flip Cards</h3>
      <p align="center">
             <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101673372/182945374-527807e8-4988-4b46-831f-85936523a037.png" alt"Rugrats flip Cards"/> </a>
-            <span> <a href="https://github.com/Kaleen-MicheleXO/Rugrats-front-end" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Repo-lightpink?style=for-the-badge&logo"alt="Repo" height ="25px"></a> <a href="https://rugratsflipcards.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
+            <span> <a href="https://github.com/Kaleen-MicheleXO/Rugrats-front-end" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Repo-lightpink?style=for-the-badge&logo"alt="Repo" height ="25px"></a> <a href="https://rugratsflipcards2.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_Site-lightgrey?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
             <p align="center"> Are you a 90's baby and loved the Rugrats Show? This is a fun site where you can read about the main characters of the Rugrats and find out some of there iconic sayings.</p>
           </p>
         </td>
